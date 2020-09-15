@@ -1,0 +1,9 @@
+D:\Projects\CrossPlat\CrossPlat\CrossPlat\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\CrossPlat\CrossPlat\CrossPlat\obj\Debug\netstandard2.0\MainPage1.xaml.g.cs
+D:\Projects\CrossPlat\CrossPlat\CrossPlat\obj\Debug\netstandard2.0\News.xaml.g.cs
+D:\Projects\CrossPlat\CrossPlat\CrossPlat\obj\Debug\netstandard2.0\PopupView.xaml.g.cs
+D:\Projects\CrossPlat\CrossPlat\CrossPlat\obj\Debug\netstandard2.0\TradePage.xaml.g.cs
+D:\Projects\CrossPlat\CrossPlat\CrossPlat\obj\Debug\netstandard2.0\Watchlists.xaml.g.cs
+D:\Projects\CrossPlat\CrossPlat\CrossPlat\obj\Debug\netstandard2.0\CrossPlat.AssemblyInfoInputs.cache
+D:\Projects\CrossPlat\CrossPlat\CrossPlat\obj\Debug\netstandard2.0\CrossPlat.AssemblyInfo.cs
+D:\Projects\CrossPlat\CrossPlat\CrossPlat\obj\Debug\netstandard2.0\CrossPlat.csproj.CoreCompileInputs.cache
