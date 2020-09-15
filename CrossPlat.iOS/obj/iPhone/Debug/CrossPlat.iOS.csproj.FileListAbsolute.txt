@@ -1,0 +1,8 @@
+D:\Projects\CrossPlat\CrossPlat\CrossPlat.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Projects\CrossPlat\CrossPlat\CrossPlat.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Projects\CrossPlat\CrossPlat\CrossPlat.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Projects\CrossPlat\CrossPlat\CrossPlat.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Projects\CrossPlat\CrossPlat\CrossPlat.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Projects\CrossPlat\CrossPlat\CrossPlat.iOS\obj\iPhone\Debug\optimized\
+D:\Projects\CrossPlat\CrossPlat\CrossPlat.iOS\obj\iPhone\Debug\CrossPlat.iOS.csprojAssemblyReference.cache
+D:\Projects\CrossPlat\CrossPlat\CrossPlat.iOS\obj\iPhone\Debug\CrossPlat.iOS.csproj.CoreCompileInputs.cache
